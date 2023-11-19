@@ -1,0 +1,19 @@
+BLE connection details,
+
+Works with Youtube and ZELLO applications
+
+Service UUID: 0000fff0-0000-1000-8000-00805f9b34fb
+Read characteristic UUID: 0000fff2-0000-1000-8000-00805f9b34fb
+Write characteristic UUID: 0000fff1-0000-1000-8000-00805f9b34fb
+
+
+
+Wave app UUID,
+
+Device name for discovery (Required): “Kodiak-PTT”
+● Service UUID: 8925D23D-03E4-4447-826C-418DADC7F483
+● Characteristic UUID:14C56166-6888-4089-B0CE-269D098FE528
+○ Set this characteristic to Notify and Read
+● Following values to be sent as per event:
+○ Value: 0x01 = Press button (PTT acquire floor event)
+○ Value: 0x00 = Release button (PTT release floor event)

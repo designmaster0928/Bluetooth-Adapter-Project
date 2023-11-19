@@ -1,0 +1,24 @@
+https://www.firehouse.com/tech-comm/radios-pagers-accessories/product/12101970/firefighter-radio-headsets-klein-electronics-klein-electronics-offers-bluetooth-adapter-for-headsets
+
+klein makes this headphone called TITAN headphone
+
+but this headphone do not have any bluetooth
+
+so klein wanted to make it bluetooth headphone
+
+so he bought a small bluetooth adapter like this
+
+
+
+he connects this bluetooth adapter to the Titan headphone and make it wireless
+
+
+now the PTT on headphone can be pressed and worked with bluetooth
+
+klein wants to make a copy of this bluetooth adapter
+this wire cord is called K-cord
+
+
+klein manufactures K-cord and Titan headphone. He will send me sample next week of both
+
+we need to design a PCB for the bluetooth adapter that connects with this K-cord that connects to headphone
